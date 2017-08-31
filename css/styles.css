@@ -1,0 +1,27 @@
+
+@import "_fonts.css";
+@import "_header.css";
+
+body{
+    background: #f0f0f0;
+}
+h1.logo {
+    width:200px;
+    color:red;
+    font-size: 20px;
+}
+img.logo{
+    width:200px
+}
+div.pages{
+    font-size: 20px;
+    background-color: yellowgreen;
+    color: blue;
+    width: 400px;
+}
+div.categories{
+    background-color: lawngreen;
+    color:blue;
+    width: 200px;
+    font-size: 20px;
+}
